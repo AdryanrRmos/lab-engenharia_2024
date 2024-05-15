@@ -5,25 +5,22 @@ import './Home.css';
 const Home = () => {
   return (
     <div>
-      <h1>Tarefas em React</h1>
+      <h1>Tarefas em React  😄</h1>
       <nav>
         <ul>  
           <li>
-            <Link to={"/Atividade01"}>Atividade 1 - Letreiro e Relogio</Link>
+            <Link to={"/Atividade01"}>Atividade 1 - Letreiro e Relogio ✔️</Link>
           </li>
           <li>
-            <Link to={"/Atividade02"}>Atividade 2 - Contador Homem e Mulher</Link>
+            <Link to={"/Atividade02"}>Atividade 2 - Contador Homem e Mulher ✔️</Link>
           </li>
           <li>
-            <Link to={"/Atividade03"}>Atividade 3 - Componentes</Link>
+            <Link to={"/Atividade03"}>Atividade 3 - Componentes diversos ❌</Link>
           </li>
-         </ul>
-      </nav>
       <footer>
             © 2024 | Desenvolvido por Adryan Ramos
       </footer>
     </div>
   );
 }
-
 export default Home;
