@@ -9,13 +9,13 @@ const Home = () => {
       <nav>
         <ul>  
           <li>
-            <Link to={"/Atividade01"}>Atividade 1 - Letreiro e Relogio ✔️</Link>
+            <Link to={"/Atividade01"}>Atividade 1 - Letreiro e Relogio</Link>
           </li>
           <li>
-            <Link to={"/Atividade02"}>Atividade 2 - Contador Homem e Mulher ✔️</Link>
+            <Link to={"/Atividade02"}>Atividade 2 - Contador Homem e Mulher</Link>
           </li>
           <li>
-            <Link to={"/Atividade03"}>Atividade 3 - Componentes diversos ❌</Link>
+            <Link to={"/Atividade03"}>Atividade 3 - Componentes diversos</Link>
           </li>
       <footer>
             © 2024 | Desenvolvido por Adryan Ramos
