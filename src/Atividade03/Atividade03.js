@@ -1,6 +1,6 @@
 import Profile from "./Componentes/Profile";
 import Gallery from "./Componentes/Gallery";
-import  JSX    from  "./Componentes/JSX";
+import  JS   from  "./Componentes/JS";
 import Date from "./Componentes/Date"
 import {Link} from "react-router-dom";
 
